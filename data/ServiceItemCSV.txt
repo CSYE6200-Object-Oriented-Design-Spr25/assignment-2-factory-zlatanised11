@@ -1,0 +1,2 @@
+5,Car Wash,15.99,30 min
+6,Home Cleaning,99.99,2 hours
